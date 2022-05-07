@@ -279,6 +279,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-titles-from-headings
 
 BUNDLED WITH
    1.17.2

@@ -1,3 +1,39 @@
+# theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Site Settings
+title   : "masaki925's CV"
+subtitle: "last update: 2022-05-07"
+name    : "masaki925"
+
+# Plugins
 plugins:
   - jekyll-include-cache
+
+# additional setting
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+  - scope:
+      path: "ja"
+    values:
+      layout: single
+      author: masaki925_ja
+      author_profile: true
+      toc: true
+  - scope:
+      path: "en"
+    values:
+      layout: single
+      author: masaki925_en
+      author_profile: true
+      toc: true
+

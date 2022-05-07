@@ -1,3 +1,3 @@
-- ja
-- en
+- [CV (ja)](ja/)
+- [CV (en)](en/)
 
