@@ -5,7 +5,8 @@
 |Name|Masaki Iwamoto|
 |ID|masaki925|
 |Location|Tokyo, JP|
-|Languages|Japanese (native), English(Business)|
+|Languages|Japanese (Native), English(Limited Working), French (Elementary)|
+|Certificates| LPIC level2, TOEIC 805|
 
 ## Summary
 
@@ -26,18 +27,27 @@ Software Engineer with over 13 years of experience:
 
 ## Experience
 
-### Quipper
+### Quipper (Recruit Co., Ltd.)
 
 |Data Engineer|
 |April 2019 - Present (3 years 1 month)|
 |Tokyo, JP|
 
-Developed & managed data products for E-learning platform:
+Developed & managed data products for E-learning platform ([Study Sapuri](https://studysapuri.jp/)):
 
 - Search
   - With SpeechToText API, make the index of contents on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
 - Recommendation
   - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to main platform built with Rails.
+
+**Awards**:
+
+- GoodJob Award (2019, 1Q)
+  - Contributed to search feature launch
+- QUEST Award (2019, 2nd half)
+  - Shared knowledge about collaboration with WebDevs, and over-sea team members (Indonesia)
+- MVP team (2021)
+  - Released new recommendation micro service from scratch on GCP
 
 ### RECRUIT COMMUNICATIONS CO.,LTD.
 
@@ -61,7 +71,7 @@ Developed & managed data products for E-learning platform:
 
 - Travel SNS Service (Web, iOS)
   - A platform allows users to share their travel experiences with photos and GPS, and create a travel plan
-    - Press Release (archive): http://web.archive.org/web/20220225160817/https://jp.techcrunch.com/2017/01/25/compathy-funding/
+    - [Press Release (archive)](http://web.archive.org/web/20220225160817/https://jp.techcrunch.com/2017/01/25/compathy-funding/)
   - Developed web backend/frontend from scratch using Rails, AngularJS on AWS
   - Developed iOS app with Objective-C
   - Led & supported 5~8 developers/designers with the Scrum process
@@ -92,17 +102,54 @@ Developed & managed data products for E-learning platform:
 
 ### Published on corporate tech blog (Japanese):
 
-- [Poetry, Docker, Build, and Run](https://blog.studysapuri.jp/entry/Poetry-Docker-Build-and-Run)
-- [Kubeflow Pipeline, and components](https://blog.studysapuri.jp/entry/kubeflow-pipelines-and-componentize-skills)
-- [ML Workflow built with Data Scientist & Data Engineer](https://blog.studysapuri.jp/entry/2020/12/19/080000)
-- [Data Engineer meets WebDev team at Quipper](https://blog.studysapuri.jp/entry/2019/07/02/114507)
+- [Poetry, Docker, Build, and Run (2021)](https://blog.studysapuri.jp/entry/Poetry-Docker-Build-and-Run)
+- [Kubeflow Pipeline, and components (2021)](https://blog.studysapuri.jp/entry/kubeflow-pipelines-and-componentize-skills)
+- [ML Workflow built with Data Scientist & Data Engineeri (2020)](https://blog.studysapuri.jp/entry/2020/12/19/080000)
+- [Data Engineer meets WebDev team at Quipper (2019)](https://blog.studysapuri.jp/entry/2019/07/02/114507)
 
 ### Private work
 
-- Rap bot (MC Dokaben) meets BERTScore
-  - [presentation](https://docs.google.com/presentation/d/1-4kX5WdXMUcWCTIgQuUYPWzTK6EZ7MTnyUBuO0UySVw/edit)
-  - [How to](https://masaki925.hatenablog.com/entry/mc-dokaben)
-- Rap bot (MC Chimera) meets T5
+- Rap bot (MC Chimera) meets T5 (2021)
   - [presentation](https://docs.google.com/presentation/d/1WP707cX1GBkPlJxDAFuYukqsUSzMLuXBEUs1tR_90lI/edit)
   - [How to](https://masaki925.hatenablog.com/entry/2022/01/06/T5_%28%E3%81%A6%E3%82%86%E3%81%86%E3%81%8B%E8%B6%85%E6%89%8B%E8%BB%BD%E3%81%AB%E5%BC%B7%E3%81%84%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%91)
+- Rap bot (MC Dokaben) meets BERTScore (2020)
+  - [presentation](https://docs.google.com/presentation/d/1-4kX5WdXMUcWCTIgQuUYPWzTK6EZ7MTnyUBuO0UySVw/edit)
+  - [How to](https://masaki925.hatenablog.com/entry/mc-dokaben)
+
+## Skills
+
+- Programming languages
+  - Python (5+ years)
+  - Ruby (5+ years)
+  - Rust (beginner)
+
+- Frameworks
+  - Flask (3+ years)
+  - FastAPI (1 year)
+  - Ruby on Rails (5+ years)
+  - Flutter (beginner)
+
+- Databases
+  - MySQL (5+ years)
+  - DynamoDB (1 year)
+  - Cloud Bigtable (1 year)
+
+- Datawarehouse
+  - BigQuery (2+ years)
+
+- Workflow engine
+  - Kubeflow Pipeline (2+ years)
+  - Vertex AI (1 year)
+
+- OS
+  - Linux (13+ years)
+  - MacOS (10+ years)
+
+- Infra (as a user)
+  - Docker (4+ years)
+  - k8s (3+ years)
+
+- Cloud Platform
+  - GCP (3+ years)
+  - AWS (5+ years)
 
