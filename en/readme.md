@@ -33,7 +33,7 @@ Software Engineer with over 13 years of experience:
 |April 2019 - Present (3 years 1 month)|
 |Tokyo, JP|
 
-Developed & managed data products for E-learning platform ([Study Sapuri](https://studysapuri.jp/)):
+Developed & managed data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)):
 
 - Search
   - With SpeechToText API, make the index of contents on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
@@ -43,11 +43,11 @@ Developed & managed data products for E-learning platform ([Study Sapuri](https:
 **Awards**:
 
 - GoodJob Award (2019, 1Q)
-  - Contributed to search feature launch
+  - Contributed to [search feature launch](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html)
 - QUEST Award (2019, 2nd half)
-  - Shared knowledge about collaboration with WebDevs, and over-sea team members (Indonesia)
+  - Shared knowledge about collaboration with WebDevs, and over-sea team members ([Quipper Indonesia](https://www.quipper.com/id/))
 - MVP team (2021)
-  - Released new recommendation micro service from scratch on GCP
+  - Released new recommendation micro service for [a renewal project](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html) from scratch on GCP
 
 ### RECRUIT COMMUNICATIONS CO.,LTD.
 
