@@ -1,5 +1,12 @@
 # CV (ja)
 
+## 基本情報
+
+|key|value|
+|---|-----|
+|Name|岩本 政樹 (Iwamoto Masaki)|
+|ID|masaki925|
+
 ## スキル
 ### 言語
 
