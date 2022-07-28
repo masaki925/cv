@@ -29,8 +29,8 @@ Software Engineer with over 13 years of experience:
 
 ### Quipper (Recruit Co., Ltd.)
 
-|Data Engineer|
-|April 2019 - Present (3 years 1 month)|
+|Senior Data Engineer|
+|April 2019 - Present (3+ years)|
 |Tokyo, JP|
 
 Developed & managed data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)):
