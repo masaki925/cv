@@ -23,8 +23,6 @@ Software Engineer with over 13 years of experience:
 
 **Good for me**: TDD, Agile Manifest, Team Topology
 
-**Not for me**: Outlook, Teams
-
 ## Skills
 
 - Programming languages
