@@ -4,7 +4,7 @@
 
 |Name|Masaki Iwamoto|
 |ID|masaki925|
-|Location|Tokyo, JP|
+|Location|Tokyo, JP -> planning to move somewhere in EMEA|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
 |Certificates| LPIC level2, TOEIC 805|
 
@@ -19,13 +19,54 @@ Software Engineer with over 13 years of experience:
 - Data engineer for 5+ years,
   - I developed & managed Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
 
-**Interests**: Machine Learning, NLP, MLOps, Rust
+**Interests**: Machine Learning, NLP, MLOps, Rust, VISA support, relocation support
 
 **Good for me**: TDD, Agile Manifest, Team Topology
 
 **Not for me**: Outlook, Teams
 
-## Experience
+## Skills
+
+- Programming languages
+  - Python (5+ years)
+  - Ruby (5+ years)
+  - Rust (beginner)
+
+- Frameworks
+  - Flask (3+ years)
+  - FastAPI (1 year)
+  - Ruby on Rails (5+ years)
+  - Flutter (beginner)
+
+- Databases
+  - MySQL (5+ years)
+  - DynamoDB (1 year)
+  - Cloud Bigtable (1 year)
+
+- Datawarehouse
+  - BigQuery (2+ years)
+
+- Workflow engine
+  - Kubeflow Pipeline (2+ years)
+  - Vertex AI (1 year)
+
+- CI/CD
+  - GitHub (9+ years)
+  - Cloud Build (2+ years)
+
+- OS
+  - Linux (13+ years)
+  - MacOS (10+ years)
+
+- Infra (as a user)
+  - Docker (4+ years)
+  - k8s (3+ years)
+
+- Cloud Platform
+  - GCP (3+ years)
+  - AWS (5+ years)
+
+## Experiences
 
 ### Quipper (Recruit Co., Ltd.)
 
@@ -62,6 +103,15 @@ Developed & managed data products for E-learning platform ([Study Sapuri (Google
 - New Business Development
   - Advised as a Tech Advisor in order to ensure which function is able to get data for the KPI or our property
 
+
+### Incubit Inc.
+
+|Software Engineer (as a freelancer)|
+|November 2016 - March 2017 (5 months)|
+|Tokyo, JP|
+
+- A enterprise chat bot application for recruitment process
+  - Developed from scratch with LINE Messenger API, Rails, api.ai (now Dialogflow) on AWS
 
 ### Wanderlust Inc.
 
@@ -115,41 +165,4 @@ Developed & managed data products for E-learning platform ([Study Sapuri (Google
 - Rap bot (MC Dokaben) meets BERTScore (2020)
   - [presentation](https://docs.google.com/presentation/d/1-4kX5WdXMUcWCTIgQuUYPWzTK6EZ7MTnyUBuO0UySVw/edit)
   - [How to](https://masaki925.hatenablog.com/entry/mc-dokaben)
-
-## Skills
-
-- Programming languages
-  - Python (5+ years)
-  - Ruby (5+ years)
-  - Rust (beginner)
-
-- Frameworks
-  - Flask (3+ years)
-  - FastAPI (1 year)
-  - Ruby on Rails (5+ years)
-  - Flutter (beginner)
-
-- Databases
-  - MySQL (5+ years)
-  - DynamoDB (1 year)
-  - Cloud Bigtable (1 year)
-
-- Datawarehouse
-  - BigQuery (2+ years)
-
-- Workflow engine
-  - Kubeflow Pipeline (2+ years)
-  - Vertex AI (1 year)
-
-- OS
-  - Linux (13+ years)
-  - MacOS (10+ years)
-
-- Infra (as a user)
-  - Docker (4+ years)
-  - k8s (3+ years)
-
-- Cloud Platform
-  - GCP (3+ years)
-  - AWS (5+ years)
 
