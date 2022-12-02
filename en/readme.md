@@ -4,7 +4,7 @@
 
 |Name|Masaki Iwamoto|
 |ID|masaki925|
-|Location|Tokyo, JP -> planning to move somewhere in EMEA|
+|Location|Tokyo, JP -> planning to move somewhere in Europe|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
 |Certificates| LPIC level2, TOEIC 805|
 
