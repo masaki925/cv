@@ -6,7 +6,6 @@
 |ID|masaki925|
 |Location|Tokyo, JP -> planning to move somewhere in Europe|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
-|Certificates| LPIC level2, TOEIC 805|
 
 ## Summary
 
@@ -75,9 +74,11 @@ Software Engineer with over 13 years of experience:
 Developed & managed data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)):
 
 - Search
-  - With SpeechToText API, make the index of contents on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
+  - With SpeechToText API, make the index of 100K+ vidoes on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
 - Recommendation
   - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to main platform built with Rails.
+- ML App PoC
+  - A product to shorten assessment exam by prediction based students answering logs.
 
 **Awards**:
 
