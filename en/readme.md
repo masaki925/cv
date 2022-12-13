@@ -82,12 +82,12 @@ Developed & managed data products for E-learning platform ([Study Sapuri (Google
 
 **Awards**:
 
-- GoodJob Award (2019, 1Q)
-  - Contributed to [search feature launch](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html)
+- MVP team (2021)
+  - Released new recommendation micro service for [a renewal project](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html) from scratch on GCP ([article](https://blog.studysapuri.jp/entry/recommendation_with_CQRS_on_GCP))
 - QUEST Award (2019, 2nd half)
   - Shared knowledge about collaboration with WebDevs, and over-sea team members ([Quipper Indonesia](https://www.quipper.com/id/))
-- MVP team (2021)
-  - Released new recommendation micro service for [a renewal project](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html) from scratch on GCP
+- GoodJob Award (2019, 1Q)
+  - Contributed to [search feature launch](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html)
 
 ### RECRUIT COMMUNICATIONS CO.,LTD.
 
@@ -151,9 +151,10 @@ Developed & managed data products for E-learning platform ([Study Sapuri (Google
 
 ### Published on corporate tech blog (Japanese):
 
+- [CQRS recommendation system on GCP (2022)](https://blog.studysapuri.jp/entry/recommendation_with_CQRS_on_GCP)
 - [Poetry, Docker, Build, and Run (2021)](https://blog.studysapuri.jp/entry/Poetry-Docker-Build-and-Run)
 - [Kubeflow Pipeline, and components (2021)](https://blog.studysapuri.jp/entry/kubeflow-pipelines-and-componentize-skills)
-- [ML Workflow built with Data Scientist & Data Engineeri (2020)](https://blog.studysapuri.jp/entry/2020/12/19/080000)
+- [ML Workflow built with Data Scientist & Data Engineer (2020)](https://blog.studysapuri.jp/entry/2020/12/19/080000)
 - [Data Engineer meets WebDev team at Quipper (2019)](https://blog.studysapuri.jp/entry/2019/07/02/114507)
 
 ### Private work
