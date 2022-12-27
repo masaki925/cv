@@ -90,7 +90,7 @@ Developed & maintained data products for E-learning platform ([Study Sapuri (Goo
   - To support the continuous enhancement, designed and built the workflow of Data Scientist and Data engineer on Vertex AI, and CF recommendation improved 5 times the KPI
 - ML App PoC
   - A product to shorten assessment exam by prediction based students answering logs.
-  - To accelerate the Data Scientist and Planner's PDCA cycle, design & implement the MLOps platform and mock apps.
+  - To accelerate the Data Scientist and Planner's PDCA cycle, designed & implemented the MLOps platform and mock apps.
 
 **Awards**:
 
