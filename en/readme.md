@@ -14,13 +14,22 @@ Software Engineer with over 13 years of experience:
 - SRE for 5+ years
   - I built/managed of 100+ servers for 12 billion imp/month
 - Application engineer for 3+ years,
-  - I developed whole process of web/mobile app from scratch
+  - I developed whole process of web/mobile app from scratch at the startup, as a CTO
 - Data engineer for 5+ years,
-  - I developed & managed Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
+  - I developed & maintained Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
 
 **Interests**: Machine Learning, NLP, MLOps, Rust, VISA support, relocation support
 
 **Good for me**: TDD, Agile Manifest, Team Topology
+
+## Strength
+
+- Engineering skills to develop a data product from scratch
+  - Design and implement the data pipeline to the product mainly web application, having flexibility and scalability to adapt the product growth
+- Communication skills to get things done with various layers of people
+  - Detect the suitable solutions from various perspective of infrastructure, front-end, Apps, and also planners, designers, data scientist etc so that I can understand the problem clearly, figuring out wisely.
+- Leading skills to keep the team and technologies improving
+  - Take the balance of member motivation and the project goal and the market, select the technologies or processes with the TDD, Agile way of working
 
 ## Skills
 
@@ -71,14 +80,17 @@ Software Engineer with over 13 years of experience:
 |April 2019 - Present (3+ years)|
 |Tokyo, JP|
 
-Developed & managed data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)):
+Developed & maintained data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)):
 
 - Search
-  - With SpeechToText API, make the index of 100K+ vidoes on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
+  - With SpeechToText API, make the index of teacher speeches from 100K+ vidoes on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
+  - Designed & implemented the logging system such as tracking process, format, versioning, session management, A/B test platform, and tuned the weight of each field on the index
 - Recommendation
   - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to main platform built with Rails.
+  - To support the continuous enhancement, designed and built the workflow of Data Scientist and Data engineer on Vertex AI, and CF recommendation improved 5 times the KPI
 - ML App PoC
   - A product to shorten assessment exam by prediction based students answering logs.
+  - To accelerate the Data Scientist and Planner's PDCA cycle, design & implement the MLOps platform and mock apps.
 
 **Awards**:
 
