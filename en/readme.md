@@ -4,7 +4,7 @@
 
 |Name|Masaki Iwamoto|
 |ID|masaki925|
-|Location|Tokyo, JP -> any in [Netherlands, Germany, France, Switzerland, Sweden, Finland]|
+|Location|Tokyo, JP -> any in [Netherlands, Germany, France, Belgium, Switzerland, Sweden, Finland, Spain]|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
 
 ## Summary
