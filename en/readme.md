@@ -4,7 +4,7 @@
 
 |Name|Masaki Iwamoto|
 |ID|masaki925|
-|Location|Tokyo, JP -> planning to move somewhere in Europe|
+|Location|Tokyo, JP -> any in [Netherlands, Germany, France, Switzerland, Sweden, Finland]|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
 
 ## Summary
@@ -12,24 +12,28 @@
 Software Engineer with over 13 years of experience:
 
 - SRE for 5+ years
-  - I built/managed of 100+ servers for 12 billion imp/month
-- Application engineer for 3+ years,
-  - I developed whole process of web/mobile app from scratch at the startup, as a CTO
-- Data engineer for 5+ years,
+  - I built/managed 100+ servers for 12 billion imp/month Ad service.
+- Application engineer for 3+ years
+  - I developed whole process of web/mobile app from scratch at the startup, as a CTO.
+- Data engineer for 5+ years
   - I developed & maintained Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
+
+Recently, I'm interested in the part of creating value from data.
+I would like to work with companies that have a lot of data, or the ones that collaborate with them to create products for the world.
+I'm also interested in MLOps to create greater impact in that area.
 
 **Interests**: Machine Learning, NLP, MLOps, Rust, VISA support, relocation support
 
-**Good for me**: TDD, Agile Manifest, Team Topology
+**Good for me**: TDD, Agile Manifesto, Team Topology
 
 ## Strength
 
 - Engineering skills to develop a data product from scratch
-  - Design and implement the data pipeline to the product mainly web application, having flexibility and scalability to adapt the product growth
+  - Design and implement from data pipeline to the product mainly web application, having flexibility and scalability to adapt the product growth.
 - Communication skills to get things done with various layers of people
-  - Detect the suitable solutions from various perspective of infrastructure, front-end, Apps, and also planners, designers, data scientist etc so that I can understand the problem clearly, figuring out wisely.
+  - Using various perspectives of infrastructure, front-end, mobile apps, and also working with planners, designers, data scientists to understand the problem clearly, figuring it out wisely.
 - Leading skills to keep the team and technologies improving
-  - Take the balance of member motivation and the project goal and the market, select the technologies or processes with the TDD, Agile way of working
+  - Take the balance of member motivation and the project goal and the market, select the technologies or processes with the TDD, Agile methodology.
 
 ## Skills
 
@@ -49,7 +53,7 @@ Software Engineer with over 13 years of experience:
   - DynamoDB (1 year)
   - Cloud Bigtable (1 year)
 
-- Datawarehouse
+- Data Warehouse
   - BigQuery (2+ years)
 
 - Workflow engine
@@ -80,17 +84,17 @@ Software Engineer with over 13 years of experience:
 |April 2019 - Present (3+ years)|
 |Tokyo, JP|
 
-Developed & maintained data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)):
+Developed & maintained data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)) as a Lead Engineer in sub-team, towards totally 30-40 members project:
 
-- Search
-  - With SpeechToText API, make the index of teacher speeches from 100K+ vidoes on Elastic Search using Airflow pipeline, and make it available through Python API to main platform built with Rails.
-  - Designed & implemented the logging system such as tracking process, format, versioning, session management, A/B test platform, and tuned the weight of each field on the index
-- Recommendation
-  - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to main platform built with Rails.
-  - To support the continuous enhancement, designed and built the workflow of Data Scientist and Data engineer on Vertex AI, and CF recommendation improved 5 times the KPI
-- ML App PoC
-  - A product to shorten assessment exam by prediction based students answering logs.
-  - To accelerate the Data Scientist and Planner's PDCA cycle, designed & implemented the MLOps platform and mock apps.
+- ML App PoC (PM x 1, DS x 1, devs x 2)
+  - A product to shorten assessment exams by prediction based on students answering logs.
+  - Major accomplishments: Designed a MLOps pipeline to support Data Scientist modeling PDCA cycle and shipping to the production, and also implemented the mock app to support planner's planning PDCA.
+- Recommendation (PM x 1, DS x 2, devs x 4)
+  - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to the main platform built with Rails.
+  - Major accomplishments: Released it as a micro service on k8s, having 2 major updates collaborating with data scientists, and also released a brand-new architecture on GCP following CQRS design pattern, maintained over 3 years, without any critical issues.
+- Search (PM x1, devs x 4)
+  - With SpeechToText API, make the index of teacher speeches from 100K+ videos on Elastic Search using Airflow pipeline, and make it available through Python API to the main platform built with Rails.
+  - Major accomplishments: Released it as a micro service on k8s, including logging design to track the KPI, maintained over 3 years, without any critical issues.
 
 **Awards**:
 
@@ -109,7 +113,7 @@ Developed & maintained data products for E-learning platform ([Study Sapuri (Goo
 
 - BI tool for internal use
   - BI tool aggregates data from various internal databases & predicts KPIs using Machine Learning
-  - Developed data process batches & sysytem design of new BI feature, corporating with partner system vendors
+  - Developed data process batches & system design of new BI feature, cooperating with partner system vendors
 
 - New Business Development
   - Advised as a Tech Advisor in order to ensure which function is able to get data for the KPI or our property
@@ -121,7 +125,7 @@ Developed & maintained data products for E-learning platform ([Study Sapuri (Goo
 |November 2016 - March 2017 (5 months)|
 |Tokyo, JP|
 
-- A enterprise chat bot application for recruitment process
+- An enterprise chat bot application for recruitment process
   - Developed from scratch with LINE Messenger API, Rails, api.ai (now Dialogflow) on AWS
 
 ### Wanderlust Inc.
@@ -147,7 +151,7 @@ Developed & maintained data products for E-learning platform ([Study Sapuri (Goo
 |April 2008 - August 2013 (5 years 5 months)|
 |Tokyo, JP|
 
-- Built & Managemed 100+ servers with automation tools, including on-premise and cloud
+- Built & Managed 100+ servers with automation tools, including on-premise and cloud
 - Setup a new systems includes web servers, DB servers, networks, etc
 - Setup monitoring tools, and detect problems & causes, and solve it
 
