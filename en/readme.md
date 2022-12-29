@@ -88,7 +88,7 @@ Developed & maintained data products for E-learning platform ([Study Sapuri (Goo
 
 - ML App PoC (PM x 1, DS x 1, devs x 2)
   - A product to shorten assessment exams by prediction based on students answering logs.
-  - Major accomplishments: Designed a MLOps pipeline to support Data Scientist modeling PDCA cycle and shipping to the production, and also implemented the mock app to support planner's planning PDCA.
+  - Major accomplishments: Designed a MLOps pipeline to support Data Scientist modeling PDCA cycle and shipping to the production on GCP from scratch, and also implemented the mock app to support planner's planning PDCA.
 - Recommendation (PM x 1, DS x 2, devs x 4)
   - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to the main platform built with Rails.
   - Major accomplishments: Released it as a micro service on k8s, having 2 major updates collaborating with data scientists, and also released a brand-new architecture on GCP following CQRS design pattern, maintained over 3 years, without any critical issues.
