@@ -31,7 +31,7 @@ We want to move to somewhere in EU as a Family plan, primarily Netherlands but n
 ## Strength
 
 - Engineering skills to develop a data product from scratch
-  - Design and implement from data pipeline to the product mainly web application, having flexibility and scalability to adapt the product growth.
+  - Design and implement from data pipeline to the web product, having flexibility and scalability to adapt the product growth.
 - Communication skills to get things done with various layers of people
   - Using various perspectives of infrastructure, front-end, mobile apps, and also working with planners, designers, data scientists to understand the problem clearly, figuring it out wisely.
 - Leading skills to keep the team and technologies improving
