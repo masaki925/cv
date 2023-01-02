@@ -4,7 +4,7 @@
 
 |Name|Masaki Iwamoto|
 |ID|masaki925|
-|Location|Tokyo, JP -> any in [Netherlands, Germany, France, Belgium, Switzerland, Sweden, Finland, Spain]|
+|Location|Tokyo, JP|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
 
 ## Summary
@@ -21,6 +21,8 @@ Software Engineer with over 13 years of experience:
 Recently, I'm interested in the part of creating value from data.
 I would like to work with companies that have a lot of data, or the ones that collaborate with them to create products for the world.
 I'm also interested in MLOps to create greater impact in that area.
+
+We want to move to somewhere in EU as a Family plan, primarily Netherlands but not limited, as far as I can work with my speciality.
 
 **Interests**: Machine Learning, NLP, MLOps, Rust, VISA support, relocation support
 
