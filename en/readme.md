@@ -16,7 +16,7 @@ Software Engineer with over 13 years of experience:
 - Application engineer for 3+ years
   - I developed whole process of web/mobile app from scratch at the startup, as a CTO.
 - Data engineer for 5+ years
-  - I developed & maintained Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
+  - I developed & maintained & led Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
 
 Recently, I'm interested in the part of creating value from data.
 I would like to work with companies that have a lot of data, or the ones that collaborate with them to create products for the world.
@@ -70,9 +70,10 @@ We want to move to somewhere in EU as a Family plan, primarily Netherlands but n
   - Linux (13+ years)
   - MacOS (10+ years)
 
-- Infra (as a user)
+- Infrastructure (as a user)
   - Docker (4+ years)
   - k8s (3+ years)
+  - Terraform (3+ years)
 
 - Cloud Platform
   - GCP (3+ years)
@@ -86,7 +87,7 @@ We want to move to somewhere in EU as a Family plan, primarily Netherlands but n
 |April 2019 - Present (3+ years)|
 |Tokyo, JP|
 
-Developed & maintained data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)) as a Lead Engineer in sub-team, towards totally 30-40 members project:
+Developed & maintained & led data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)) as a Lead Engineer in sub-team, towards totally 30-40 members project:
 
 - ML App PoC (PM x 1, DS x 1, devs x 2)
   - A product to shorten assessment exams by prediction based on students answering logs.
