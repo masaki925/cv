@@ -19,10 +19,10 @@ Software Engineer with over 13 years of experience:
   - I developed & maintained & led Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
 
 Recently, I'm interested in the part of creating value from data.
-I would like to work with companies that have a lot of data, or the ones that collaborate with them to create products for the world.
+I would like to work for companies that have a lot of data, or the ones that collaborate with them to create products for the world.
 I'm also interested in MLOps to create greater impact in that area.
 
-We want to move to somewhere in EU as a Family plan, primarily Netherlands but not limited, as far as I can work with my speciality.
+I am currently living in Japan and would like your company to sponsor my VISA.
 
 **Interests**: Machine Learning, NLP, MLOps, Rust, VISA support, relocation support
 
