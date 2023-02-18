@@ -87,7 +87,7 @@ I am currently living in Japan and would like your company to sponsor my VISA.
 |Feburuary 2023 (0 month)|
 |Bristol, UK|
 
-The offer was withdrawn due to reorganisation.
+The offer was discarded due to reorganisation.
 
 ### Quipper (Recruit Co., Ltd.)
 
