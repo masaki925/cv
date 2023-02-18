@@ -81,6 +81,14 @@ I am currently living in Japan and would like your company to sponsor my VISA.
 
 ## Experiences
 
+### Cookpad. LTD
+
+|Search Platform Engineer|
+|Feburuary 2023 (0 month)|
+|Bristol, UK|
+
+The offer was withdrawn due to reorganisation.
+
 ### Quipper (Recruit Co., Ltd.)
 
 |Senior Data Engineer|
