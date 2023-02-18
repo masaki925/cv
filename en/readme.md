@@ -84,7 +84,7 @@ I am currently living in Japan and would like your company to sponsor my VISA.
 ### Quipper (Recruit Co., Ltd.)
 
 |Senior Data Engineer|
-|April 2019 - Present (3+ years)|
+|April 2019 - December 2022 (3 years 9 months)|
 |Tokyo, JP|
 
 Developed & maintained & led data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)) as a Lead Engineer in sub-team, towards totally 30-40 members project:
