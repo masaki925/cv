@@ -9,26 +9,9 @@
 
 ## Summary
 
-Software Engineer with over 13 years of experience:
+Data Application Engineer with over 14 years of experience.
 
-- SRE for 5+ years
-  - I built/managed 100+ servers for 12 billion imp/month Ad service.
-- Application engineer for 3+ years
-  - I developed whole process of web/mobile app from scratch at the startup, as a CTO.
-- Data engineer for 5+ years
-  - I developed & maintained & led Data products such as Search, Recommendation using BigQuery, Airflow, Python Flask, Elastic Search.
-
-Recently, I'm interested in the part of creating value from data.
-I would like to work for companies that have a lot of data, or the ones that collaborate with them to create products for the world.
-I'm also interested in MLOps to create greater impact in that area.
-
-I am currently living in Japan and would like your company to sponsor my VISA.
-
-**Interests**: Machine Learning, NLP, MLOps, Rust, VISA support, relocation support
-
-**Good for me**: TDD, Agile Manifesto, Team Topology
-
-## Strength
+Strength:
 
 - Engineering skills to develop a data product from scratch
   - Design and implement from data pipeline to the web product, having flexibility and scalability to adapt the product growth.
@@ -36,6 +19,12 @@ I am currently living in Japan and would like your company to sponsor my VISA.
   - Using various perspectives of infrastructure, front-end, mobile apps, and also working with planners, designers, data scientists to understand the problem clearly, figuring it out wisely.
 - Leading skills to keep the team and technologies improving
   - Take the balance of member motivation and the project goal and the market, select the technologies or processes with the TDD, Agile methodology.
+
+**Interests**: RAG, LLM to the real
+
+    => LLMs are strong technology but lack of accuracy, has limited numbers of tokens, uncontrollable communication flow. We still need more innovations to bring the power to the real.
+
+**Good for me**: TDD, Agile Manifesto, Team Topology
 
 ## Skills
 
@@ -80,6 +69,24 @@ I am currently living in Japan and would like your company to sponsor my VISA.
   - AWS (5+ years)
 
 ## Experiences
+
+### Amazon Web Services
+
+|Cloud Support Engineer|
+|August 2023 - current|
+|Dublin, Ireland|
+
+Supporting Japanese customers with focusing Data flow services like OpenSearch, CloudSearch, Kendra, Kinesis
+
+### Incubit Inc.
+
+|Software Engineer (as a freelancer)|
+|May 2023 - August 2023 (3 months)|
+|Tokyo, JP|
+
+- An RAG system for construction industry
+  - LLM chat application to answer construction design questions based on internal documents and low documents.
+  - Flask, ChatGPT API, Pinecone, Weaviate
 
 ### Quipper (Recruit Co., Ltd.)
 
