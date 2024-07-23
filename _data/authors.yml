@@ -1,7 +1,7 @@
 masaki925_ja:
   avatar     : "https://secure.gravatar.com/avatar/8bb6b087227c609d6f3a212ae7fd5e5c?s=400"
   bio        : "ITエンジニア歴14年。SRE -> スタートアップCTO -> データ。NLP, MLOps, Rust に興味があります。"
-  location   : "Tokyo, JP"
+  location   : "ダブリン, アイルランド"
   email      : "masaki925 _at_ gmail.com"
   links:
     - label: "Blog"
@@ -21,7 +21,7 @@ masaki925_en:
   avatar     : "https://secure.gravatar.com/avatar/8bb6b087227c609d6f3a212ae7fd5e5c?s=400"
   name       : "Masaki Iwamoto<br>@masaki925"
   # bio        : "Senior Data Engineer with 14+ years experience. SRE -> CTO of Startup -> Data Engineer. Interests: NLP, MLOps, Rust"
-  location   : "Tokyo, JP"
+  location   : "Dublin, IE"
   email      : "masaki925 _at_ gmail.com"
   links:
     - label: "Blog"
