@@ -22,7 +22,7 @@ Strength:
 
 **Interests**: RAG, LLM to the real
 
-    => LLMs are strong technology but lack of accuracy, has limited numbers of tokens, uncontrollable communication flow. We still need more innovations to bring the power to the real.
+=> LLMs are strong technology but lack of accuracy, has limited numbers of tokens, uncontrollable communication flow. We still need more innovations to bring the power to the real.
 
 **Good for me**: TDD, Agile Manifesto, Team Topology
 
