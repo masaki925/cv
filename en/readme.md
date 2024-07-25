@@ -4,7 +4,6 @@
 
 |Name|Masaki Iwamoto|
 |ID|masaki925|
-|Location|Tokyo, JP|
 |Languages|Japanese (Native), English(Limited Working), French (Elementary)|
 
 ## Summary
