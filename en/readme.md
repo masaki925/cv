@@ -2,7 +2,6 @@
 
 ## Basic Information
 
-=======
 | **Location** | Dublin, Ireland |
 |--------------|-----------|
 | **Languages** | Japanese (Native), English (Limited Working) |
