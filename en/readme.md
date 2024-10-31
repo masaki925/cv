@@ -1,193 +1,103 @@
-# CV (en)
+# Masaki Iwamoto
 
-## Basic
+## Basic Information
 
-|Name|Masaki Iwamoto|
-|ID|masaki925|
-|Languages|Japanese (Native), English(Limited Working), French (Elementary)|
+=======
+| **Location** | Dublin, Ireland |
+|--------------|-----------|
+| **Languages** | Japanese (Native), English (Limited Working) |
 
 ## Summary
 
-Software Engineer with over 14 years of experience.
+Data Application Engineer with over 14 years of experience in developing scalable data products. Proven strengths include:
 
-Strength:
+- **Engineering Skills**: Expertise in designing and implementing comprehensive data pipelines and web products, ensuring flexibility and scalability for growth.
+- **Communication Skills**: Ability to collaborate effectively across diverse teams, including infrastructure, front-end, mobile, and data science, to address complex challenges.
+- **Leadership Skills**: Experience in fostering team motivation while balancing project goals and market needs, leveraging TDD and Agile methodologies.
 
-- Engineering skills to develop a data product from scratch
-  - Design and implement from data pipeline to the web product, having flexibility and scalability to adapt the product growth.
-- Communication skills to get things done with various layers of people
-  - Using various perspectives of infrastructure, front-end, mobile apps, and also working with planners, designers, data scientists to understand the problem clearly, figuring it out wisely.
-- Leading skills to keep the team and technologies improving
-  - Take the balance of member motivation and the project goal and the market, select the technologies or processes with the TDD, Agile methodology.
+**Interests**: RAG, LLM applications
 
-**Interests**: RAG, LLM to the real
-
-=> LLMs are strong technology but lack of accuracy, has limited numbers of tokens, uncontrollable communication flow. We still need more innovations to bring the power to the real.
-
-**Good for me**: TDD, Agile Manifesto, Team Topology
+**Good for Me**: TDD, Agile Manifesto, Team Topology
 
 ## Skills
 
-- Programming languages
-  - Python (5+ years)
-  - Ruby (5+ years)
-  - Rust (beginner)
+- **Programming Languages**: Python (5+ years), Ruby (5+ years), Rust (beginner)
+- **Frameworks**: Flask (3+ years), FastAPI (1 year), Ruby on Rails (5+ years), Flutter (beginner)
+- **Databases**: MySQL (5+ years), DynamoDB (1 year), Cloud Bigtable (1 year)
+- **Data Warehouse**: BigQuery (2+ years)
+- **Workflow Engines**: Kubeflow Pipeline (2+ years), Vertex AI (1 year)
+- **CI/CD**: GitHub (9+ years), Cloud Build (2+ years)
+- **Operating Systems**: Linux (13+ years), MacOS (10+ years)
+- **Infrastructure (as a User)**: Docker (4+ years), Kubernetes (3+ years), Terraform (3+ years)
+- **Cloud Platforms**: GCP (3+ years), AWS (5+ years)
 
-- Frameworks
-  - Flask (3+ years)
-  - FastAPI (1 year)
-  - Ruby on Rails (5+ years)
-  - Flutter (beginner)
+## Experience
 
-- Databases
-  - MySQL (5+ years)
-  - DynamoDB (1 year)
-  - Cloud Bigtable (1 year)
-
-- Data Warehouse
-  - BigQuery (2+ years)
-
-- Workflow engine
-  - Kubeflow Pipeline (2+ years)
-  - Vertex AI (1 year)
-
-- CI/CD
-  - GitHub (9+ years)
-  - Cloud Build (2+ years)
-
-- OS
-  - Linux (13+ years)
-  - MacOS (10+ years)
-
-- Infrastructure (as a user)
-  - Docker (4+ years)
-  - k8s (3+ years)
-  - Terraform (3+ years)
-
-- Cloud Platform
-  - GCP (3+ years)
-  - AWS (5+ years)
-
-## Experiences
+### WASO, LTD.
+**Software Engineer (Freelancer)**  
+*July 2024 - Present, Dublin, Ireland*  
+- Developed an RAG system for the food delivery industry: a Natural Language based search feature utilizing LLM to order food menus based on internal database. Technologies: Ruby on Rails, ChatGPT API, OpenSearch
 
 ### Amazon Web Services
-
-|Cloud Support Engineer|
-|August 2023 - current|
-|Dublin, Ireland|
-
-Supporting Japanese customers with focusing Data flow services like OpenSearch, CloudSearch, Kendra, Kinesis
+**Cloud Support Engineer**  
+*August 2023 - Present, Dublin, Ireland*  
+- Support Japanese customers, focusing on data flow services such as OpenSearch, CloudSearch, Kendra, and Kinesis.
 
 ### Incubit Inc.
-
-|Software Engineer (as a freelancer)|
-|May 2023 - August 2023 (3 months)|
-|Tokyo, JP|
-
-- An RAG system for construction industry
-  - LLM chat application to answer construction design questions based on internal documents and low documents.
-  - Flask, ChatGPT API, Pinecone, Weaviate
+**Software Engineer (Freelancer)**  
+*May 2023 - August 2023, Tokyo, JP*  
+- Developed an RAG system for the construction industry: a chat application utilizing LLM to answer design questions based on internal documents. Technologies: Flask, ChatGPT API, Pinecone, Weaviate.
 
 ### Quipper (Recruit Co., Ltd.)
-
-|Senior Data Engineer|
-|April 2019 - December 2022 (3 years 9 months)|
-|Tokyo, JP|
-
-Developed & maintained & led data products for E-learning platform ([Study Sapuri (Google translated)](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://brand.studysapuri.jp/)) as a Lead Engineer in sub-team, towards totally 30-40 members project:
-
-- ML App PoC (PM x 1, DS x 1, devs x 2)
-  - A product to shorten assessment exams by prediction based on students answering logs.
-  - Major accomplishments: Designed a MLOps pipeline to support Data Scientist modeling PDCA cycle and shipping to the production on GCP from scratch, and also implemented the mock app to support planner's planning PDCA.
-- Recommendation (PM x 1, DS x 2, devs x 4)
-  - With Popularity calculation, learning log analytics, and Collaborative Filtering to generate recommendation on GCP, and make it available through Python API to the main platform built with Rails.
-  - Major accomplishments: Released it as a micro service on k8s, having 2 major updates collaborating with data scientists, and also released a brand-new architecture on GCP following CQRS design pattern, maintained over 3 years, without any critical issues.
-- Search (PM x1, devs x 4)
-  - With SpeechToText API, make the index of teacher speeches from 100K+ videos on Elastic Search using Airflow pipeline, and make it available through Python API to the main platform built with Rails.
-  - Major accomplishments: Released it as a micro service on k8s, including logging design to track the KPI, maintained over 3 years, without any critical issues.
+**Senior Data Engineer**  
+*April 2019 - December 2022, Tokyo, JP*  
+- Led the development and maintenance of data products for the E-learning platform **Study Sapuri**. Key projects included:
+  - **ML App PoC**: Designed an MLOps pipeline to shorten assessment exams through predictive modeling on GCP.
+  - **Recommendation System**: Implemented collaborative filtering and released it as a microservice on Kubernetes, achieving multiple successful updates.
+  - **Search System**: Developed a speech-to-text indexing solution for 100K+ teacher videos, maintaining operational stability for over 3 years.
 
 **Awards**:
-
-- MVP team (2021)
-  - Released new recommendation micro service for [a renewal project](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html) from scratch on GCP ([article](https://blog.studysapuri.jp/entry/recommendation_with_CQRS_on_GCP))
-- QUEST Award (2019, 2nd half)
-  - Shared knowledge about collaboration with WebDevs, and over-sea team members ([Quipper Indonesia](https://www.quipper.com/id/))
-- GoodJob Award (2019, 1Q)
-  - Contributed to [search feature launch](http://translate.google.com/translate?langpair=ja%7Cen&hl=en&u=https://www.recruit-mp.co.jp/news/release/2019/0614_3734.html)
+- MVP Team (2021) for a new recommendation microservice project.
+- QUEST Award (2019) for knowledge sharing and collaboration.
+- GoodJob Award (2019) for contributions to a new search feature launch.
 
 ### RECRUIT COMMUNICATIONS CO.,LTD.
-
-|Data Engineer|
-|March 2017 - March 2019 (2 years 1 month)|
-|Tokyo, JP|
-
-- BI tool for internal use
-  - BI tool aggregates data from various internal databases & predicts KPIs using Machine Learning
-  - Developed data process batches & system design of new BI feature, cooperating with partner system vendors
-
-- New Business Development
-  - Advised as a Tech Advisor in order to ensure which function is able to get data for the KPI or our property
-
+**Data Engineer**  
+*March 2017 - March 2019, Tokyo, JP*  
+- Developed a BI tool for internal use, integrating data from multiple sources and implementing machine learning for KPI prediction.
 
 ### Incubit Inc.
-
-|Software Engineer (as a freelancer)|
-|November 2016 - March 2017 (5 months)|
-|Tokyo, JP|
-
-- An enterprise chat bot application for recruitment process
-  - Developed from scratch with LINE Messenger API, Rails, api.ai (now Dialogflow) on AWS
+**Software Engineer (Freelancer)**  
+*November 2016 - March 2017, Tokyo, JP*  
+- Created an enterprise chatbot for the recruitment process using LINE Messenger API, Rails, and Dialogflow.
 
 ### Wanderlust Inc.
-
-|Co-Founder, CTO|
-|September 2013 - January 2017 (3 years 5 months)|
-|Tokyo, JP|
-
-- Travel SNS Service (Web, iOS)
-  - A platform allows users to share their travel experiences with photos and GPS, and create a travel plan
-    - [Press Release (archive)](http://web.archive.org/web/20220225160817/https://jp.techcrunch.com/2017/01/25/compathy-funding/)
-  - Developed web backend/frontend from scratch using Rails, AngularJS on AWS
-  - Developed iOS app with Objective-C
-  - Led & supported 5~8 developers/designers with the Scrum process
-
-- Travel Magazine
-  - A travel magazine
-  - Customized Wordpress for templates, RSS feeds, Advertisements
+**Co-Founder, CTO**  
+*September 2013 - January 2017, Tokyo, JP*  
+- Co-founded a travel SNS service, leading a team of developers and designers to create a platform for sharing travel experiences.
 
 ### VOYAGE GROUP Inc. (CARTA HOLDINGS, INC.)
-
-|SRE|
-|April 2008 - August 2013 (5 years 5 months)|
-|Tokyo, JP|
-
-- Built & Managed 100+ servers with automation tools, including on-premise and cloud
-- Setup a new systems includes web servers, DB servers, networks, etc
-- Setup monitoring tools, and detect problems & causes, and solve it
-
-----
+**SRE**  
+*April 2008 - August 2013, Tokyo, JP*  
+- Managed over 100 servers, implementing automation tools and ensuring system reliability.
 
 ## Education
 
-### Shizuoka University
+**Shizuoka University**  
+Bachelor's in Computer Science (2003 - 2008)
 
-|Bachelor, Computer Science · (2003 - 2008)|
+## Publications
 
-## Articles
-
-### Published on corporate tech blog (Japanese):
-
-- [CQRS recommendation system on GCP (2022)](https://blog.studysapuri.jp/entry/recommendation_with_CQRS_on_GCP)
+**Corporate Tech Blog (Japanese)**:
+- [CQRS Recommendation System on GCP (2022)](https://blog.studysapuri.jp/entry/recommendation_with_CQRS_on_GCP)
 - [Poetry, Docker, Build, and Run (2021)](https://blog.studysapuri.jp/entry/Poetry-Docker-Build-and-Run)
-- [Kubeflow Pipeline, and components (2021)](https://blog.studysapuri.jp/entry/kubeflow-pipelines-and-componentize-skills)
-- [ML Workflow built with Data Scientist & Data Engineer (2020)](https://blog.studysapuri.jp/entry/2020/12/19/080000)
-- [Data Engineer meets WebDev team at Quipper (2019)](https://blog.studysapuri.jp/entry/2019/07/02/114507)
+- [Kubeflow Pipeline, and Components (2021)](https://blog.studysapuri.jp/entry/kubeflow-pipelines-and-componentize-skills)
+- [ML Workflow Collaboration (2020)](https://blog.studysapuri.jp/entry/2020/12/19/080000)
+- [Data Engineer Meets WebDev Team (2019)](https://blog.studysapuri.jp/entry/2019/07/02/114507)
 
-### Private work
+**Private Projects**:
+- **Rap Bot Meets T5 (2021)**: [Presentation](https://docs.google.com/presentation/d/1WP707cX1GBkPlJxDAFuYukqsUSzMLuXBEUs1tR_90lI/edit) | [How to](https://masaki925.hatenablog.com/entry/2022/01/06/T5_%28%E3%81%A6%E3%82%86%E3%81%86%E3%81%8B%E8%B6%85%E6%89%8B%E8%BB%BD%E3%81%AB%E5%BC%B7%E3%81%84%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%91)
+- **Rap Bot Meets BERTScore (2020)**: [Presentation](https://docs.google.com/presentation/d/1-4kX5WdXMUcWCTIgQuUYPWzTK6EZ7MTnyUBuO0UySVw/edit) | [How to](https://masaki925.hatenablog.com/entry/mc-dokaben)
 
-- Rap bot (MC Chimera) meets T5 (2021)
-  - [presentation](https://docs.google.com/presentation/d/1WP707cX1GBkPlJxDAFuYukqsUSzMLuXBEUs1tR_90lI/edit)
-  - [How to](https://masaki925.hatenablog.com/entry/2022/01/06/T5_%28%E3%81%A6%E3%82%86%E3%81%86%E3%81%8B%E8%B6%85%E6%89%8B%E8%BB%BD%E3%81%AB%E5%BC%B7%E3%81%84%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%91)
-- Rap bot (MC Dokaben) meets BERTScore (2020)
-  - [presentation](https://docs.google.com/presentation/d/1-4kX5WdXMUcWCTIgQuUYPWzTK6EZ7MTnyUBuO0UySVw/edit)
-  - [How to](https://masaki925.hatenablog.com/entry/mc-dokaben)
+---
 
