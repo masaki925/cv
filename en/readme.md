@@ -32,15 +32,10 @@ Data Application Engineer with over 14 years of experience in developing scalabl
 
 ## Experience
 
-### WASO, LTD.
-**Software Engineer (Freelancer)**  
-*July 2024 - Present, Dublin, Ireland*  
-- Developed an RAG system for the food delivery industry: a Natural Language based search feature utilizing LLM to order food menus based on internal database. Technologies: Ruby on Rails, ChatGPT API, OpenSearch
-
 ### Amazon Web Services
 **Cloud Support Engineer**  
 *August 2023 - Present, Dublin, Ireland*  
-- Support Japanese customers, focusing on data flow services such as OpenSearch, CloudSearch, Kendra, and Kinesis.
+- Support Japanese customers, focusing on data flow services such as OpenSearch, Kendra, and Kinesis, as well as data insight services such as Redshift, QuickSight, DataZone.
 
 ### Incubit Inc.
 **Software Engineer (Freelancer)**  
